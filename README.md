@@ -26,6 +26,9 @@ Default username and password for login page is
 foo
 bar
 
+Kindly connect to internet before running the application as it makes requests to the Random User API. 
+https://randomuser.me/
+
 Thanks! Please revert incase of any issue while running.
 
 
